@@ -7,6 +7,7 @@ class Employee{
         this.id=id;
         this.city=city;
         this.basic=basic;
+        this.name=name;
     }
     void display()
     {
